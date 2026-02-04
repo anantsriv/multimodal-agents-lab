@@ -1,6 +1,6 @@
 {
     "name": "Jupyter Notebook with MongoDB",
-    "dockerComposeFile": "docker-compose.yml",
+    
     "service": "lab-runner",
     "workspaceFolder": "/workspaces/${localWorkspaceFolderBasename}",
     "forwardPorts": [
